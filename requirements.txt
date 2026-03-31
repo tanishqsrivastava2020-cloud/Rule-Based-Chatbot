@@ -1,0 +1,7 @@
+# Requirements for Student Academic Assistant Chatbot (CLI-Based)
+
+# This project uses only built-in Python libraries.
+# No external dependencies are required.
+
+# Python version:
+# Python 3.x
